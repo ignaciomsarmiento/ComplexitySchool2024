@@ -1,0 +1,7 @@
+pandas==2.2.1
+beautifulsoup4==4.12.2
+nb_conda
+notebook
+lxml
+requests
+selenium
