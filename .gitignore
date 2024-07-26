@@ -1,7 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/r,latex,microsoftoffice
 # Edit at https://www.toptal.com/developers/gitignore?templates=r,latex,microsoftoffice
 
-
+CorrespondenceDemo_full.ipynb
 */figures/* 
 */Papers/* 
 */extra/* 
